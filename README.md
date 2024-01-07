@@ -3,8 +3,8 @@
 This Project is the Simulation of Bank Management System Using Core Java which also involve the ATM Machine Transactions.
 In this Project we can perform the every necessary operation which is held in the Bank i.e.
 
-1.Create Account\n
-2.Check Balance\n
+1.Create Account
+2.Check Balance
 3.Deposit
 4.WithDraw
 5.Close Account
