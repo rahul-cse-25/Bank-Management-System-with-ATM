@@ -26,14 +26,14 @@ Also It's involve ATM operations like
 To run this project follow these steps:
 1.copy the github link of this project
 2.if you already installed the gibbase then open the commond prompt and type 
-git clone [project_link]
+**git clone [project_link]**
 and if you not installed the gitbase than install it first. then do the step 2.
 3.once it created clone than go in the directory by 
-cd Bank-Management-System-with-ATM
+**cd Bank-Management-System-with-ATM**
 4.Now if your system have jdk then compile it by
-javac BankImplements.java
+**javac BankImplements.java**
 5.Once it compiler then run by
-java BankImplements
+**java BankImplements**
 
 if you properly follow the steps then project will run and if you want to perform the admin operations then
 adminId : 0000
