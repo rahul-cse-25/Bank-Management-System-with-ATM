@@ -22,8 +22,7 @@ public class BankServices {
 	private int adminId = 0000;
 	private String adminPassWord = "rahul@2024";
 
-//	From line 25 to 50 is used to make default Account if want it then uncomment this or make commented if you dont need 
-//	default accounts
+//	From line 25 to 49 is used to make default Account if want it then uncomment this
 
 //	Customers ctm1 = new Customers("Rahul", 23, "male", "2000-09-20", "33180100018268", "9812345678", "Vasai(W)",
 //			"virar", 10000, "6255-2854-1234", "1234");
